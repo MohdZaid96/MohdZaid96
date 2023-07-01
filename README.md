@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohd Zaid</h1>
 <h3 align="center">Creating dynamic and interactive web solutions via Full stack development.</h3>
-<img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/full_stack_banner.jpg" alt="image" />
+<img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/full_stack_banner.jpg" alt="image" width=100% />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohdzaid96&label=Profile%20views&color=0e75b6&style=flat" alt="mohdzaid96" /> </p>
 
